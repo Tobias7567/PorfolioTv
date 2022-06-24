@@ -173,11 +173,13 @@
 }
 .contenedordefoto {
   width: 30%;
-  height: 75vh;
+  height: 70vh;
+  align-items: center;
 }
 .contenedordefoto img {
-  width: 400px;
-  height: 500px;
+  width: 380px;
+  height: 470px;
+  border-radius: 1%;
 }
 .h3enespañol{
   width: 45%;
@@ -238,6 +240,15 @@ display: none;
   font-size: 3em;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
+}
+.conteiner_img_skills {
+  margin-top: 1%;
+}
+.img_skills  {
+width: 30px;
+height: 30px;
+margin: 0.7em;
+
 }
 .mySlides4 {
   display: none;
