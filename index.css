@@ -449,8 +449,29 @@ p {
   justify-content: center;
   align-items: center;
   font-size: 3.5em;
-  padding: 2em 1em;
+  padding: 1.5em 1em;
 }
+.conteiner_cv
+  {
+    display: flex;
+    
+    justify-content: center;
+    width: 18%;
+    height: 10%;
+    background-color: #0f2027;
+    border-radius: 4%;
+    margin-bottom: 2%;
+
+  }
+  .conteiner_cv a   {
+    color: rgb(182, 182, 182);
+    font-size: 1.7em;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .conteiner_cv a:hover {
+    color: black;
+   
+  }
 a {
   text-decoration: none !important;
 }
