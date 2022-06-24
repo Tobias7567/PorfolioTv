@@ -456,7 +456,7 @@ p {
     display: flex;
     
     justify-content: center;
-    width: 18%;
+    width: 190px;
     height: 10%;
     background-color: #0f2027;
     border-radius: 4%;
@@ -465,7 +465,7 @@ p {
   }
   .conteiner_cv a   {
     color: rgb(182, 182, 182);
-    font-size: 1.7em;
+    font-size: 160%;
     font-family: 'Times New Roman', Times, serif;
   }
   .conteiner_cv a:hover {
